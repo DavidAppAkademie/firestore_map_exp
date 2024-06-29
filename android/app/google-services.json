@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549707092048",
+    "project_id": "firestore-map-exp",
+    "storage_bucket": "firestore-map-exp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549707092048:android:d7d412ae5d19e8981ec155",
+        "android_client_info": {
+          "package_name": "de.dove.dove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApCJxt3xm963pWXBQL1-jZpZJHGmeFHPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
